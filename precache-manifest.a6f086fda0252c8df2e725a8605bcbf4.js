@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f53ecb8b1e6c2288c9fee6cf29d51ac9",
+    "revision": "05c81e887fe1b5ced13da7f574b98d11",
     "url": "/offside-tienda/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/offside-tienda/static/js/2.0e7214de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3f5d0af4afe37e7ea4a",
-    "url": "/offside-tienda/static/js/main.19d2184c.chunk.js"
+    "revision": "317fc51754b6f2ff718a",
+    "url": "/offside-tienda/static/js/main.518febf4.chunk.js"
   },
   {
     "revision": "71aecde404fcadd86714",
