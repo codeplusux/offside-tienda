@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/offside-tienda/static/js/main.19d2184c.chunk.js",
+    "main.js.map": "/offside-tienda/static/js/main.19d2184c.chunk.js.map",
+    "runtime-main.js": "/offside-tienda/static/js/runtime-main.1e4c9042.js",
+    "runtime-main.js.map": "/offside-tienda/static/js/runtime-main.1e4c9042.js.map",
+    "static/js/2.0e7214de.chunk.js": "/offside-tienda/static/js/2.0e7214de.chunk.js",
+    "static/js/2.0e7214de.chunk.js.map": "/offside-tienda/static/js/2.0e7214de.chunk.js.map",
+    "index.html": "/offside-tienda/index.html",
+    "precache-manifest.e36912287492b8db738718af0a9fc51d.js": "/offside-tienda/precache-manifest.e36912287492b8db738718af0a9fc51d.js",
+    "service-worker.js": "/offside-tienda/service-worker.js",
+    "static/js/2.0e7214de.chunk.js.LICENSE.txt": "/offside-tienda/static/js/2.0e7214de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e4c9042.js",
+    "static/js/2.0e7214de.chunk.js",
+    "static/js/main.19d2184c.chunk.js"
+  ]
+}
