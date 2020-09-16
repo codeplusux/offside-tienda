@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/offside-tienda/precache-manifest.a6f086fda0252c8df2e725a8605bcbf4.js"
+  "/offside-tienda/precache-manifest.73369aa76970697d7a1063504831c1d5.js"
 );
 
 self.addEventListener('message', (event) => {
