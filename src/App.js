@@ -8,9 +8,15 @@ function App() {
   return (
     <div id="main">
       <Header />
-      <Product />
-      <Endorsement />
-      <Contact />
+      <div id="content">
+        <div id="first">
+          <Product />
+        </div>
+        <div id="second">
+          <Endorsement />
+          <Contact />
+        </div>
+      </div>
     </div>
   );
 }

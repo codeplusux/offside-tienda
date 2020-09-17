@@ -3,7 +3,7 @@ import React from "react";
 const Endorsement = () => {
   return (
     <section className="item">
-      <p>Reconocimiento</p>
+      <p></p>
     </section>
   );
 };
