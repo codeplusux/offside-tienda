@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f5f53605b95debfc345a76d295a2138",
+    "revision": "a1fc68de6ae2987c309b0e1295be87cc",
     "url": "/offside-tienda/index.html"
   },
   {
-    "revision": "c3f073ea428715b4d089",
-    "url": "/offside-tienda/static/css/main.1afa3ab2.chunk.css"
+    "revision": "311d931745bb0e895afb",
+    "url": "/offside-tienda/static/css/main.40cee01b.chunk.css"
   },
   {
     "revision": "ec18dd498dd7ccc2eb32",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/offside-tienda/static/js/2.0e7214de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3f073ea428715b4d089",
-    "url": "/offside-tienda/static/js/main.0016fab8.chunk.js"
+    "revision": "311d931745bb0e895afb",
+    "url": "/offside-tienda/static/js/main.fae0db53.chunk.js"
   },
   {
     "revision": "71aecde404fcadd86714",

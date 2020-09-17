@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/offside-tienda/static/css/main.1afa3ab2.chunk.css",
-    "main.js": "/offside-tienda/static/js/main.0016fab8.chunk.js",
-    "main.js.map": "/offside-tienda/static/js/main.0016fab8.chunk.js.map",
+    "main.css": "/offside-tienda/static/css/main.40cee01b.chunk.css",
+    "main.js": "/offside-tienda/static/js/main.fae0db53.chunk.js",
+    "main.js.map": "/offside-tienda/static/js/main.fae0db53.chunk.js.map",
     "runtime-main.js": "/offside-tienda/static/js/runtime-main.1e4c9042.js",
     "runtime-main.js.map": "/offside-tienda/static/js/runtime-main.1e4c9042.js.map",
     "static/js/2.0e7214de.chunk.js": "/offside-tienda/static/js/2.0e7214de.chunk.js",
     "static/js/2.0e7214de.chunk.js.map": "/offside-tienda/static/js/2.0e7214de.chunk.js.map",
     "index.html": "/offside-tienda/index.html",
-    "precache-manifest.c7f5766973886cf2147d4161da02a69a.js": "/offside-tienda/precache-manifest.c7f5766973886cf2147d4161da02a69a.js",
+    "precache-manifest.4febf5b35a87adc10b4143ca608c9296.js": "/offside-tienda/precache-manifest.4febf5b35a87adc10b4143ca608c9296.js",
     "service-worker.js": "/offside-tienda/service-worker.js",
-    "static/css/main.1afa3ab2.chunk.css.map": "/offside-tienda/static/css/main.1afa3ab2.chunk.css.map",
+    "static/css/main.40cee01b.chunk.css.map": "/offside-tienda/static/css/main.40cee01b.chunk.css.map",
     "static/js/2.0e7214de.chunk.js.LICENSE.txt": "/offside-tienda/static/js/2.0e7214de.chunk.js.LICENSE.txt",
     "static/media/index.css": "/offside-tienda/static/media/sportBg.722c481c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1e4c9042.js",
     "static/js/2.0e7214de.chunk.js",
-    "static/css/main.1afa3ab2.chunk.css",
-    "static/js/main.0016fab8.chunk.js"
+    "static/css/main.40cee01b.chunk.css",
+    "static/js/main.fae0db53.chunk.js"
   ]
 }
