@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  color: white;
 }
 
 body {
@@ -13,6 +14,7 @@ body {
 #root {
   height: 100vh;
   width: 100%;
+  background: linear-gradient(0deg, rgba(84, 84, 84, 0) 0%, rgb(0, 0, 0) 100%);
 }
 
 #root::before {
@@ -27,12 +29,17 @@ body {
   bottom: 0;
 }
 
-.extra {
-  height: 100vh;
-  width: 100%;
-  background: linear-gradient(0deg, rgba(84, 84, 84, 0) 0%, rgb(0, 0, 0) 100%);
+#main {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 1px solid lime;
+  width: 70%;
+  margin: 0 auto;
 }
 
-.brand {
-  mix-blend-mode: normal;
+.item {
+  border: 1px solid white;
+  display: flex;
 }

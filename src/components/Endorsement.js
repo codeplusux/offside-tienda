@@ -1,7 +1,11 @@
 import React from "react";
 
 const Endorsement = () => {
-  return;
+  return (
+    <section className="item">
+      <p>Reconocimiento</p>
+    </section>
+  );
 };
 
 export default Endorsement;
